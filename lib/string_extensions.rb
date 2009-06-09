@@ -1,3 +1,5 @@
+# Here are some test comments...
+
 class String
 
   # Duplicates the current string by count and returns that as a new string.
